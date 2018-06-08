@@ -1,0 +1,15 @@
+Hi {firstname} {lastname},
+
+Concerning your order #{id_order}:
+
+Good news! We have received payment from your card through Wirecard.
+
+Your order will be on its way to you shortly.
+
+You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} powered by PrestaShop™
